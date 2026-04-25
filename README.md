@@ -63,6 +63,7 @@ LangChain is a powerful and extensible framework for building applications with 
 - **[LangGraph](https://github.com/langchain-ai/langgraph)** – Add stateful and graph-based reasoning to LangChain agents.
 - **[LangSmith](https://www.langchain.com/langsmith)** – LangChain’s debugging, tracing, and evaluation tool.
 - **[Griptape](https://github.com/griptape-ai/griptape)** – Alternative LLM framework that can integrate with LangChain ideas.
+- **[langchain-enigmagent](https://github.com/Agnuxo1/langchain-enigmagent)** – Local AES-256-GCM + Argon2id encrypted secret vault as a LangChain callback handler. Resolves `{{PLACEHOLDER}}` tokens transparently in chains and agents so API keys never enter the LLM context. Zero cloud, MIT.
 
 ## Production Tools & Deployment
 
